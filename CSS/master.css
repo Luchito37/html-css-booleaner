@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+}
+
+.logo{
+    width:250px;
+    height: 100px;
+    position: bottom left;
+}
+
+header{
+    background-image: url(../IMG/pattern.png);
+    background-color: #4c91fa;
+    background-size: 30%;
+    height: 100px;
+}
+
+h3{
+    color: rgb(145, 131, 131);
+}
+
+table{
+    border-spacing: 0px;
+}
+
+}
+.large{
+    width: 200px;
+}
+
+
+.bg-img1{
+    background-image: url(../IMG/monitor.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background-size: 247px;
+}
+
+.bg-img2{
+    background-image: url(../IMG/graph.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background-size: 247px;
+}
+
